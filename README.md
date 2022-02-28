@@ -1,6 +1,5 @@
 # pagila-hw3
-[![](https://github.com/mikeizbicki/pagila-hw3/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw3/actions?query=workflow%3Atests)
-
+[![tests](https://github.com/afroCoderHanane/pagila-hw3/actions/workflows/tests.yml/badge.svg)](https://github.com/afroCoderHanane/pagila-hw3/actions/workflows/tests.yml)
 ## Tasks
 
 The instructions are the same as for the first [pagila-hw](https://github.com/mikeizbicki/pagila-hw) assignment.
